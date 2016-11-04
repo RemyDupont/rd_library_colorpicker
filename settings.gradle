@@ -1,1 +1,1 @@
-include ':app', ':lib_colorpicker'
+include ':app', ':lib_colorpicker', ':rdslider'
