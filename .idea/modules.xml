@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_colorpicker/lib_colorpicker.iml" filepath="$PROJECT_DIR$/lib_colorpicker/lib_colorpicker.iml" />
       <module fileurl="file://$PROJECT_DIR$/rd_library_colorpicker.iml" filepath="$PROJECT_DIR$/rd_library_colorpicker.iml" />
     </modules>
   </component>
