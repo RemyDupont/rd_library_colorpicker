@@ -19,8 +19,6 @@ import java.util.List;
 
 public class ColorSelectorDialog extends Dialog {
 
-
-    private Context context;
     private int red, green, blue;
     private int color;
     private SurfaceView oldColorSurfaceView, newColorSurfaceView;
@@ -33,17 +31,14 @@ public class ColorSelectorDialog extends Dialog {
     private boolean coloredSides = false;
     List<Drawable> thumbs;
 
-
     /*
     Constructors
      */
     public ColorSelectorDialog(Context context) {
         super(context);
-        this.context = context;
         red = 0;
         green = 0;
         blue = 0;
-
     }
 
     /*
